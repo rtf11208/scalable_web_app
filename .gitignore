@@ -1,0 +1,14 @@
+# Local .terraform directories
+**/.terraform/*
+
+#Variable files
+*.tvfars
+*.tvfars.json
+
+#State files
+*.tfstate
+*.tfstate.*
+
+#Log files
+crash.log
+crash.*.log
